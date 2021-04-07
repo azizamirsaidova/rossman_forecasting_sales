@@ -1,4 +1,4 @@
-# rossman_forecasting_sales
+# Rossman Kaggle: Forecasting Sales
 This project looks into the practicalities of Trees, MLPs and Entity Embedding.
 
 The homework is divided into four main parts: 
